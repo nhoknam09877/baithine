@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.exe
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.deps.json
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.runtimeconfig.json
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.dll
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\bin\Debug\net6.0\AnimalKingdom.pdb
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.AssemblyInfo.cs
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.dll
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\refint\AnimalKingdom.dll
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.pdb
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\AnimalKingdom.genruntimeconfig.cache
+C:\Users\ACER\source\repos\AnimalKingdom\AnimalKingdom\obj\Debug\net6.0\ref\AnimalKingdom.dll
